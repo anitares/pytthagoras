@@ -2,7 +2,8 @@
 postest ddp nim ganjil
 
 # flowchart
-![image](https://github.com/anitares/pytthagoras/assets/144813869/c240a3f1-0254-4f03-a4a3-6199a37d5bc3)
+![image](https://github.com/anitares/pytthagoras/assets/144813869/4184feed-5539-4241-b9fc-fa7900aed95d)
+
 
 # output
 ![image](https://github.com/anitares/pytthagoras/assets/144813869/e2b772f0-969e-46cc-baa3-099ff756f5a8)
